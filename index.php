@@ -6,7 +6,7 @@
 
 <?php
 
-// Dirección o IP del servidor MySQL
+// Dirección o IP del servidor MySQL local
    $host = "54.158.192.144";
    // Puerto del servidor MySQL
    $puerto = "3306";
